@@ -1,0 +1,22 @@
+Sanremo Dashboard: Presenza dei Conduttori e Popolarità dei Brani
+
+Progetto d'esame incentrato sull'analisi storica del Festival di Sanremo, le performance dei conduttori e l'impatto dei brani rispetto alla loro epoca.
+
+---
+
+Dashboard Interattiva Looker Studio
+
+Link alla Dashboard Interattiva: https://datastudio.google.com/reporting/7c74327d-2c15-4877-8d5a-0330144e096d
+
+---
+
+Struttura della Dashboard
+
+Pagina 1: Analisi Storica del Festival di Sanremo (Presenza vs Impatto Culturale)
+Visione d'insieme**: Indicatori chiave su edizioni analizzate, canzoni, conduttori e podi totali.
+Presenza Storica**: Frequenza di conduzione dei presentatori principali sul palco dell'Ariston.
+Impatto sui Brani**: Valutazione della capacità dei conduttori di presentare brani di successo.
+
+Pagina 2: Esplora le Canzoni di Sanremo
+Filtri Interattivi**: Selezione dinamica per Presentatore e per Decade.
+Differenza vs Media Decennio**: Metrica ideata per confrontare in modo equo la popolarità attuale (Spotify) delle canzoni di epoche diverse senza avvantaggiare esclusivamente i brani più recenti.
